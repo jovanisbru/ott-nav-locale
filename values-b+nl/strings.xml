@@ -1,10 +1,10 @@
 <resources>
     <string name="press_back_once_more_to_exit">Druk nogmaals om af te sluiten</string>
     <string name="search_bar">Zoeken in kanalen of programma\'s</string>
-    <string name="search_bar_clue">Probeer film-, tv-series, tv-shownamen of acteursnamen</string>
+    <string name="search_bar_clue">Probeer namen van films, tv-series, tv-shows of acteurs</string>
     <string name="menu_search">Video zoeken</string>
     <string name="menu_live">Livestream</string>
-    <string name="menu_archive">Toont archief</string>
+    <string name="menu_archive">Toon archief</string>
     <string name="menu_settings">Instellingen</string>
     <string name="menu_error_require_provider_button">Configureer provider</string>
     <string name="menu_error_require_live_but_no_playlist_title">Afspeellijst met kanalen kan niet worden geladen</string>
@@ -382,7 +382,7 @@
     <string name="studio_mode_minimize">Verkleinen</string>
     <string name="studio_mode_maximize">Maximaliseren</string>
     <string name="cfg_codec_system">systeem videoweergave</string>
-    <string name="provider_connections_reached">Uw provider staat niet zoveel verbindingen toe.</string>
+    <string name="provider_connections_reached">Uw provider staat niet zoveel verbindingen toe</string>
     <string name="max_connections">Maximaal toegestane verbindingen</string>
     <string name="pro_sub_expiring">Uw abonnement verloopt. Vernieuwen</string>
     <string name="mark_all_viewed">Markeer alles als bekeken</string>
